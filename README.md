@@ -1,2 +1,2 @@
 # GameScript
- a lot of stories
+ a lot of the stories for Short, Game, film.
